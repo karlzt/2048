@@ -8,7 +8,7 @@ The official app can also be found on the [Play Store](https://play.google.com/s
 ### Contributions
 
  - [TimPetricola](https://github.com/TimPetricola) added best score storage
- - [chrisprice](https://github.com/chrisprice) added custom code for swipe handling on mobile
+ - [chrisprice](https://github.com/chrisprice) added custom code for swipe handling on mobil
  - [elektryk](https://github.com/elektryk) made swipes work on Windows Phone
  - [mgarciaisaia](https://github.com/mgarciaisaia) added support for Android 2.3
 

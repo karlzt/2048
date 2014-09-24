@@ -335,6 +335,7 @@ hr {
   .tile.tile-128 .tile-inner {
     color: rgba(12, 249, 232, 1);
     background: url('../tile-img/art/Black_desert.jpg');
+    background-size: 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
