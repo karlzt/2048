@@ -3,7 +3,7 @@ html, body {
   margin: 0;
   padding: 0;
   background: #2A0E01;
-  color: #776e65;
+  color: rgba(251, 192, 133, 1);
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -53,14 +53,14 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #bbada0;
+  background: rgba(15, 8, 2, 1);
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
-  color: white;
+  color: rgba(230, 204, 204, 1);
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
@@ -101,7 +101,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #776e65;
+  color: rgba(255, 128, 0, 1);
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
